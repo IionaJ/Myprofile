@@ -1,0 +1,49 @@
+@import url("components/card.css") ;
+
+body {text-align: center; text-decoration: none; background-image:url("http://www.carra-carrelage.fr/Files/111872/Img/17/MARFIL-ROSSO-carrelage-interieur-sol-et-mur-60x120-BEIGE-effet-marbre-big.jpg"); }
+
+p {font-weight: 300; color: black; font-family: 'EB Garamond', serif;}
+
+h1 {color: #BA5A31; font-family: 'Libre Baskerville', serif;}
+
+li{ font-size: 11pt; font-family: 'EB Garamond', serif;}
+
+a {color: #BA5A31 ; }
+
+img{border-radius: 80% }
+
+h2 {color: #BA5A31; font-family: 'Libre Baskerville', serif;}
+
+ul{text-align: : center;
+padding-left: 10px;}
+
+
+.container { width: 800px; margin: 20px auto;}
+
+
+.cta {background: #BA5A31 ;
+    color: beige;
+	padding: 0px 90px;
+	border-radius: 5px; 
+	text-align: center
+	font-size: 30px;
+	white-space: nowrap; 
+    display: inline-block;
+    height: 40px; 
+    line-height: 40px; }
+
+a:hover {background:brown; }
+
+
+
+@media (max-width: 960px){
+.container{ width: 500px; }
+
+@media (max-width: 720px){
+.container{ width: 500px; }
+
+@media (max-width: 540px) {
+.container { width: 500px; }
+
+
+
